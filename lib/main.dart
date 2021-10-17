@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: ElevatedButton(
 
 
-                  child:Text("Okay",style: TextStyle(fontSize: ekranGenisligi/15)),
+                  child:Text("Tamam",style: TextStyle(fontSize: ekranGenisligi/15)),
                   onPressed: (){
                     print("Tarif Onaylandı");
                   },
